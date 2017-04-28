@@ -5,10 +5,10 @@
 * Drawing a line
 * Drawing a line loop
 * Drawing a polygon
-[x] Drawing a circle
-[] Set Color for lines and points
+* Drawing a circle
+* Set Color for lines and points
 
 ### Animation
-[] Fan
-[] Car
-[] Pendulum
+* [x] Fan
+* [] Car
+* [] Pendulum
